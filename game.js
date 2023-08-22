@@ -1,5 +1,5 @@
 
-var buttonColours = ["red", "blue", "green", "yellow"];
+var buttonColours = ["purple", "ash", "brown", "orange"];
 
 var gamePattern = [];
 var userClickedPattern = [];
