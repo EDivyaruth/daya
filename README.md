@@ -1,5 +1,5 @@
 # Simon-Game
 
 Just a learning part, if love to play games...
-Click here.... https://.github.io/Sdivyaimon-Game/
+Click here.... https://.github.io/divyaimon-Game/
 Test your memory, till what level you are able to memorize the pattern...
