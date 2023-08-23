@@ -27,24 +27,24 @@ body {
 }
 
 .game-over {
-  background-color: red;
+  background-color: teal;
   opacity: 0.8;
 }
 
-.red {
-  background-color: red;
+.teal {
+  background-color: teal;
 }
 
-.green {
-  background-color: green;
+.pink {
+  background-color: pink;
 }
 
-.blue {
-  background-color: blue;
+.purple {
+  background-color: purple;
 }
 
-.yellow {
-  background-color: yellow;
+.silver {
+  background-color: silver;
 }
 
 .pressed {
